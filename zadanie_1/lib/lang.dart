@@ -11,7 +11,7 @@ class Lang extends StatelessWidget {
         'Люблю Flutter❤️',
         style: TextStyle(
           fontSize: 18,
-          color: Colors.white,
+          color: Colors.pinkAccent,
         ),
       ),
     );

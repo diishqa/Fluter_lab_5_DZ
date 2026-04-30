@@ -9,7 +9,7 @@ class Group extends StatelessWidget {
       style: TextStyle(
         fontSize: 20,
         fontWeight: FontWeight.bold,
-        color: Colors.white70,
+        color: Colors.pinkAccent,
       ),
     );
   }
